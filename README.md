@@ -27,7 +27,4 @@ To load and run the model, I am using [onnx.js](https://github.com/microsoft/onn
 
 Therer is no backend! Because the model runs in the browser, you don't need a server that runs the model and you preserve your users privacy. You can have your 🎂 and eat it too!
 
-## The details
-
-If you want to learn more about the details of each aspect of this project, I will publish a detailed article about it on davidpfahler.com soon, which will include tricks and tweaks used during training and to export the model, how to get onnx.js to behave and more.
 
