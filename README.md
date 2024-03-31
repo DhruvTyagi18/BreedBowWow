@@ -1,4 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidpfahler/react-ml-app/blob/master/train_dog_classifier_with_fastai_export_to_ONNX.ipynb)
 
 # react-ml-app
 
@@ -32,6 +31,3 @@ Therer is no backend! Because the model runs in the browser, you don't need a se
 
 If you want to learn more about the details of each aspect of this project, I will publish a detailed article about it on davidpfahler.com soon, which will include tricks and tweaks used during training and to export the model, how to get onnx.js to behave and more.
 
-## License and copyright
-
-For the license of the Stanford Dogs Dataset, please visit [their website](http://vision.stanford.edu/aditya86/ImageNetDogs/). The images used to illustrate the dog breeds included in this repository are either sourced from pixabay.com and are free to use for commercial use without attribution or from Wikipedia and licensed under a version of the Creative Commense License. The required attribution can be found at [http://davidpfahler.github.io/react-ml-app](http://davidpfahler.github.io/react-ml-app) under Image Credits. The code in this repository is licensed under the [MIT license](LICENSE.md).
